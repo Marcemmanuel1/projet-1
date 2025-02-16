@@ -342,7 +342,7 @@ span{
         text-align: center;
     }
     .contact .info{
-        display: block;
+        flex-direction: column;
     }
     .contact .info .information{
         display: flex;
